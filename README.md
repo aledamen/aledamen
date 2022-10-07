@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://alejandrodamen.vercel.app/](https://alejandrodamen.vercel.app/)
 
-- 💬 Ask me about **technologies or sports**
+- 💬 Ask me about **Technologies or Sports**
 
 - 📫 How to reach me **alejandrodamen3@gmail.com**
 
