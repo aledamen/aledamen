@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working at [EducacionIT](https://www.educacionit.com/)
 
-- 🌱 I’m currently learning **JAVA**
-
 - 👨‍💻 All of my projects are available at [https://alejandrodamen.vercel.app/](https://alejandrodamen.vercel.app/)
 
 - 💬 Ask me about **technologies or sports**
