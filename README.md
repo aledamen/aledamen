@@ -3,13 +3,9 @@
 
 - 🔭 I’m currently working at [EducacionIT](https://www.educacionit.com/)
 
-- 👨‍💻 All of my projects are available at [https://alejandrodamen.vercel.app/](https://alejandrodamen.vercel.app/)
-
 - 💬 Ask me about **technologies or sports**
 
 - 📫 How to reach me **alejandrodamen3@gmail.com**
-
-- 📄 Know about my experiences [https://alejandrodamen.vercel.app/](https://alejandrodamen.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
